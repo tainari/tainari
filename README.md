@@ -7,17 +7,19 @@ I'm a former computational biologist and management consultant looking to switch
 
 ### What I'm Doing Now
 * 👩🏼‍💻 Attending Recurse Center
-* 🐍 Learning Django by...
-  * 🍱 Building a personal recipe app, What Should I Cook, so I don't just default to quesedillas and salsa for every meal
+* 🐍 Learning Django and brushing up on Python by...
+  * 🍱 Building a personal recipe app, [What Should I Cook](, so I don't just default to quesedillas and salsa for every meal
   * 📖 Creating a site, ShortReads (working name), like GoodReads but for speculative short fiction
 
 ### My Alter Ego
-When I'm not coding, I'm writing, reading, and editing under my pen name, Aleksandra Hill. I'm:
-* ✒ An award-winning writer of speculative fiction, with stories published or forthcoming in Analog, Writer's Digest, and more
-* 🌻 The founder & editor-in-chief of khōréō, a magazine of speculative fiction by immigrant & diaspora writers
+When I'm not coding, I operate under my pen name, Aleksandra Hill. I can be found:
+* ✒ Writing short stories & novels: I'm an award-winning writer of speculative fiction, with stories published or forthcoming in Analog, Writer's Digest, and more
+* 🌻 Editing: I'm the founder & editor-in-chief of khōréō, an Ignyte-award-winning magazine of speculative fiction by immigrant & diaspora writers
+I earned an MFA in Creative Writing (Fiction & Non-Fiction) from The New School in 2023.
 
 ### Fun Stuff
-* 
+* 👾 Summer gaming project: (finally) beat Breath of the Wild and play through Tears of the Kingdom
+* 🤓 Summer reading project: My MFA theses all focused on horror, and particularly ghost stories; I'll be reading more of them this summer!
 <!--
 **tainari/tainari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
