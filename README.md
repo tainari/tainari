@@ -8,8 +8,9 @@ I'm a former computational biologist and management consultant looking to switch
 ### What I'm Doing Now
 * 👩🏼‍💻 Attending Recurse Center
 * 🐍 Learning Django and brushing up on Python by...
-  * 🍱 Building a personal recipe app, [What Should I Cook](, so I don't just default to quesedillas and salsa for every meal
-  * 📖 Creating a site, ShortReads (working name), like GoodReads but for speculative short fiction
+  * 🍱 Building a personal recipe app, [What Should I Cook](https://github.com/tainari/whattocook), so I don't just default to quesedillas and salsa for every meal
+  * 🧩 Working through [LeetCode problems](https://github.com/tainari/leetcode)
+  * 📖 Designing a site, ShortReads (working name), like GoodReads but for speculative short fiction (on the backburner)
 
 ### My Alter Ego
 When I'm not coding, I operate under my pen name, Aleksandra Hill. I can be found:
