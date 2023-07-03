@@ -1,5 +1,23 @@
-### Hi there 👋
+### About Me
+I'm a former computational biologist and management consultant looking to switch careers into tech. 
+* 🎓 Earned a PhD in computational biology from Columbia University, where I...
+* 🔗 Developed a cross-species machine learning model of synthetic lethality to predict new drug combination therapies
+* 💊 Specialized in pharma and finance at Boston Consulting Group, where I...
+* 📈 Created tools, dashboards, and models to leverage underutilized company data into clear strategic direction
 
+### What I'm Doing Now
+* 👩🏼‍💻 Attending Recurse Center
+* 🐍 Learning Django by...
+  * 🍱 Building a personal recipe app, What Should I Cook, so I don't just default to quesedillas and salsa for every meal
+  * 📖 Creating a site, ShortReads (working name), like GoodReads but for speculative short fiction
+
+### My Alter Ego
+When I'm not coding, I'm writing, reading, and editing under my pen name, Aleksandra Hill. I'm:
+* ✒ An award-winning writer of speculative fiction, with stories published or forthcoming in Analog, Writer's Digest, and more
+* 🌻 The founder & editor-in-chief of khōréō, a magazine of speculative fiction by immigrant & diaspora writers
+
+### Fun Stuff
+* 
 <!--
 **tainari/tainari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
