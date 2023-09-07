@@ -10,7 +10,7 @@ I'm a former computational biologist and management consultant looking to switch
 * 🐍 Brushing up on Python by...
   * 💯 Working through [100 Days of Python](https://www.udemy.com/course/100-days-of-code/)
   * 🧩 Solving [LeetCode problems](https://github.com/tainari/leetcode) (solo and pairing)
-  * 🍱 Planning a personal recipe app, [What Should I Cook](https://github.com/tainari/whattocook), so I don't just default to quesedillas and salsa for every meal
+  * 🍱 Designing and developing a personal recipe app, [What Should I Cook](https://github.com/tainari/whattocook), so I don't just default to quesedillas and salsa for every meal
   * 📖 Designing a site, ShortReads (working name), like GoodReads but for speculative short fiction (on the backburner)
 
 ### My Alter Ego
