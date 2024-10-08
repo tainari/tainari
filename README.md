@@ -6,14 +6,14 @@ I'm a senior data scientist at J2 Health and a former computational biologist/ma
 * 📈 Created tools, dashboards, and models to leverage underutilized company data into clear strategic direction
 
 ### My Alter Ego
-When I'm not coding, I operate under my pen name, Aleksandra Hill. I can be found:
-* ✒ Writing short stories & novels: I'm an award-winning writer of speculative fiction, with stories published in Analog, LeVar Burton Reads, Writer's Digest, and more. I'm currently shopping one novel for agents and working on another!
-* 🌻 Editing: I'm the founder & editor-in-chief of khōréō, an Ignyte-award-winning magazine of speculative fiction by immigrant & diaspora writers
+When I'm not coding, I'm pursuing creative work under my pen name, Aleksandra Hill. I can be found:
+* ✒ Writing short stories & novels: I'm an award-winning writer of speculative fiction, with stories published in Analog, LeVar Burton Reads, Writer's Digest, and more. I'm currently shopping a horror novel for publication with the help of my fantastic agent—and working on another book.
+* 🌻 Editing: I'm the founder & publisher of khōréō, an Ignyte-award-winning magazine of speculative fiction by immigrant & diaspora writers
 I earned an MFA in Creative Writing (Fiction & Non-Fiction) from The New School in 2023.
 
 ### Fun Stuff
 * 👾 2024 Gaming Project: Play BG3 when I can find a bit of time to do so!
-* 🤓 2024 Reading Project: 50 books — a years-long habit that fell off during the pandemic. [Check out my progress on GoodReads.](https://www.goodreads.com/user_challenges/50144162)
+* 🤓 2024 Reading Project: Re-reading (or rather, listening to) The Wheel of Time and The Stormlight Archive as I train for my next marathon!
 
 <!--
 **tainari/tainari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
